@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\AdvancedCalc\AdvancedCalc\bin\Debug\AdvancedCalc.exe.config
+C:\Users\user\source\repos\AdvancedCalc\AdvancedCalc\bin\Debug\AdvancedCalc.exe
+C:\Users\user\source\repos\AdvancedCalc\AdvancedCalc\bin\Debug\AdvancedCalc.pdb
+C:\Users\user\source\repos\AdvancedCalc\AdvancedCalc\obj\Debug\AdvancedCalc.csprojAssemblyReference.cache
+C:\Users\user\source\repos\AdvancedCalc\AdvancedCalc\obj\Debug\AdvancedCalc.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AdvancedCalc\AdvancedCalc\obj\Debug\AdvancedCalc.exe
+C:\Users\user\source\repos\AdvancedCalc\AdvancedCalc\obj\Debug\AdvancedCalc.pdb
